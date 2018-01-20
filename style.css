@@ -1,0 +1,21 @@
+#Top{
+	font-size: 2.5em;
+	text-align: center;
+	font-family: 'Lobster', cursive;
+}
+
+body{
+	text-align: center;
+	background-color: #16e871;
+}
+
+#Sneakers{
+	color: #1585e8;
+	text-align: center;
+	font-size: 1.5em;
+}
+
+nav ol li{
+	list-style-position: inside;
+}
+
